@@ -5,6 +5,8 @@ A simple RestSharp based client library to access the Meetupcall API.
 
 [Binaries available here.](https://github.com/meetupcall/meetupcall-api-dotnet/raw/master/MeetupcallApiClient.zip)
 
+[Documentation for the API itself is here.](http://meetupcall.github.io/slate/)
+
 ## Usage example
 ```csharp
 using System;
