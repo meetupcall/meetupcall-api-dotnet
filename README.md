@@ -17,6 +17,7 @@ namespace meetupcalltest
 		public static void Main (string[] args)
 		{
 			// Create a client and authenticate
+			// Be sure to replace this example API key with your own
 			var client = new SignupClient("5d41de5a945e3bb36d93cbaf021ce1632f04cb84");
 
 			// Create a new Signup
